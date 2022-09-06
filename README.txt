@@ -1,6 +1,3 @@
-README
------------------------
-
 1. Please install the modules mentioned in requirements.txt
 
 2. Copy the required dataset into 
